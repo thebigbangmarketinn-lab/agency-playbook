@@ -14,6 +14,7 @@ A complete, ready-to-deploy system for a performance + social marketing agency t
 | [`03-repackaged-offer-and-pricing.md`](03-repackaged-offer-and-pricing.md) | New positioning, 3 pricing tiers, repricing scripts, 90-day rollout plan |
 | [`04-whatsapp-flow-diagram.md`](04-whatsapp-flow-diagram.md) | Visual Mermaid diagram of the full lead-to-customer journey |
 | [`05-monthly-client-report-template.md`](05-monthly-client-report-template.md) | Fill-in one-page monthly client report |
+| [`06-webhook-integration-setup.md`](06-webhook-integration-setup.md) | Step-by-step: connect Meta Lead Ads → Pabbly/Zapier → WhatsApp + tracker sheet |
 
 ## How to use it
 
