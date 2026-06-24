@@ -1,0 +1,6 @@
+Lead ID,Date Received,Name,Phone,Source / Campaign,Ad Spend Allocated,First Contact Time,Response Time (mins),Status,Qualified?,Appointment Booked?,Customer (Won)?,Deal Value (Rs),Notes
+1,2026-06-01,Rahul Sharma,9876543210,Meta - Lead Gen - Offer A,,2026-06-01 10:02,2,WON,YES,YES,YES,25000,Closed on first call
+2,2026-06-01,Priya Nair,9876543211,Meta - Lead Gen - Offer A,,2026-06-01 10:05,1,BOOKED,YES,YES,NO,0,Demo scheduled
+3,2026-06-02,Amit Verma,9876543212,Instagram - Reels - Offer B,,2026-06-02 11:40,3,NURTURE,NO,NO,NO,0,Budget low - follow up next month
+4,2026-06-02,Sneha Iyer,9876543213,Meta - Lead Gen - Offer A,,2026-06-02 12:01,1,QUALIFIED,YES,NO,NO,0,Wants pricing details
+5,2026-06-03,Karan Mehta,9876543214,Instagram - Reels - Offer B,,2026-06-03 09:15,5,COLD,NO,NO,NO,0,No reply after 3 follow-ups
